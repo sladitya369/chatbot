@@ -1,0 +1,12 @@
+Gender:Male
+Kids:Kids
+PriceRange:$20-$100
+Category:T-Shirts 
+Bestsellers:Summer Sale
+Sizes:Large
+Reviews:5 Star 
+Brand:Gap
+Gifts:Gift to Friend
+Color:Red
+Local:Local
+Fabric:Denim Fabric

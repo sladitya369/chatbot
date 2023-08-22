@@ -1,0 +1,10 @@
+Category Is there a specific category you'd like to explore, such as T-shirts, Jeans?
+Bestsellers  Would you like to see our latest arrivals, bestsellers, or items on sale? Promotional Offers? Discount Sales?
+Sizes What size are you looking for?Size and Fit ? Regular Fit?Low Waist?
+Reviews Would you like to see customer reviews and ratings for products?Reviews? Highested Rated?
+Brand Do you have a particular brand in mind, or are you open to exploring different brands? Gap ?Athleta? Old Navy?
+Gifts  Are you shopping for yourself or looking for a gift for someone else?Gift Cards? Gift to Friends?
+Color Do you have a preferred color for the product you're searching for? Unqiue Colors? favourite color?
+Local/International Do you prefer local or international products? Brands out of Country ? Global Brands?
+Fabric Is there a specific material or fabric you're looking for? Ployster ?Denim?
+Price Are you looking for products within a certain price range?What is the cost of the product?
