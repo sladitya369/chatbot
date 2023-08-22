@@ -1,0 +1,11 @@
+Category Is there a specific category you'd like to explore, such as T-shirts, Jeans? please let me know about the categories that are present? what are the categories? categories
+Bestsellers  Would you like to see our latest arrivals, bestsellers, or items on sale? Promotional Offers? Discount Sales?
+Sizes What size are you looking for?Size and Fit ? Regular Fit?Low Waist?
+Reviews Would you like to see customer reviews and ratings for products?Reviews? Highested Rated?
+Brand Do you have a particular brand in mind, or are you open to exploring different brands? Gap ?Athleta? Old Navy?
+Gifts  Are you shopping for yourself or looking for a gift for someone else?Gift Cards? Gift to Friends?
+Fabric Is there a specific material or fabric you're looking for? Ployster ?Denim?
+greeting     hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy
+conversation-complete     Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
+T-Shirts let me know about the T-Shirts types? what all T-shirt types available
+Polo i want to know more about the Polo? what is Polo? please provide details about polo?

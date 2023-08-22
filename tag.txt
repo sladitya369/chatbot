@@ -1,0 +1,5 @@
+Greeting: Hi, How can i help you?
+Category:There are quiet a few option like T-Shirts, jeans. Please mention a specific category to know more.
+T-Shirts: Please select the type of T-shirts that you want. We have polo, stripped, round neck Tshirts.
+Polo: Please visit the site https://www.gap.com/browse/search.do?searchText=T-shirt. Do you need any other information.
+conversation-complete: Thank you for reaching us. It was a great conversation, keep shopping.
